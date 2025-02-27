@@ -38,8 +38,6 @@ nav ul li a {
     color: white;
     text-decoration: none;
 }
-
-/* Hero Section */
 .hero {
     display: flex;
     justify-content: space-between;
